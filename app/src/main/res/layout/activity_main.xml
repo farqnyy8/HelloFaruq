@@ -16,7 +16,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="104dp"
         android:layout_marginBottom="387dp"
-        android:text="Hello from Faruq!"
+        android:text="Hello from Faruq Hammed!"
         android:textColor="@android:color/black"
         android:textSize="24sp" />
 
